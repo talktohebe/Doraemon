@@ -4,7 +4,7 @@
 
 ![](http://r.photo.store.qq.com/psb?/V11GttOD0YKhmx/xdhDh4pCFmW1QK9791ijNLpyF4PWvRY4RH6M2CY12pk!/r/dB4BAAAAAAAA)  
 - html结构
-```
+```html
 <body>
 <div class="wrapper">
     <!--head begin-->
